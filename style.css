@@ -1,0 +1,38 @@
+.nav {
+  background: black;
+  padding: 15px;
+}
+.nav-link {
+  color: white;
+  font-size: 25px;
+}
+footer {
+  background: black;
+  color: white;
+}
+footer div {
+  padding: 20px;
+}
+#imagem {
+  width: 450px;
+  height: 450px;
+}
+.my-4 {
+  margin-top: 1.5rem !important;
+  margin-bottom: 0 !important;
+}
+.alinhar div {
+  width: 800px;
+  margin: 0 auto;
+}
+.alinhar div p {
+  text-align: justify;
+}
+.distancia {
+  margin-top: 40px;
+}
+@media (max-width: 650px) {
+  .alinhar div {
+    width: 470px;
+  }
+}
